@@ -1,0 +1,3 @@
+4428ba329b41eb84975dc62197a164ae2bff2cffcfa9218496293885904f9c11  MoRaj-Ledger-0.8.138-arm64.dmg
+4efe68aa0feabb542a48db0c53aac651bb472f3e5bb69d3351e81f58703bc38b  MoRaj-Ledger-0.8.138.dmg
+ab4d29fbbafec1de5652a670d1c40e5beefdcee83d5c9ba532a947e7c00b4c83  MoRaj-Ledger-Setup-0.8.138.exe
